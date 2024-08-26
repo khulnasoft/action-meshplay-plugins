@@ -1,4 +1,4 @@
-name: 'Trigger remote/local Github Action'
+name: 'Trigger remote/local Action'
 description: 'Trigger a github action from this action'
 
 inputs:
